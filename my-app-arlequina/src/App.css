@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.sinopse{
+  text-align: center;
+  padding: 0 20rem;
+  font-size: 20px;
+}
+
+.destaque{
+  font-weight: 500;
+
+}
+
+.section2{
+  padding-bottom: 5rem;
+}
+
+.linha{
+  width: 45rem;
+}
+
+.subtitulo{
+  color:#282c34;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.corpoDoTexto{
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20rem;
+  font-size: 20px;
+  text-align: justify;
+  font-weight: 350;
+  color: #434444;
+}
+
+.botao{
+  border-radius: 40px;
+	font-size: 1.2rem;
+	height: 60px;
+	width: 200px;
+	border: none;
+	background-color: #e27ecd;
+  /*#4e545c;*/
+	color: #e5e8e8;
+	transition: all 0.5s linear;
+}
+
+button:hover {
+	background-color: #bd2c7b;
+  /*000401*/
+}
+
+
+.photoBase{
+  padding-top: 5rem;
+  height: auto;
+  width: 50rem;
+  border-radius: 15%;
+}
