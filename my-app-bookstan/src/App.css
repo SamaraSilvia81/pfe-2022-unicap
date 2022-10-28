@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.filmes{
+  display:flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+img{
+  width: 15rem;
+  height: auto;
+}
+
+img:hover{
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.filme2{
+  padding-left: 25px;
+  padding-right: 25px;
+}
