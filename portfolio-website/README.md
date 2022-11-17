@@ -1,4 +1,5 @@
-![Portfólio Web (1)](https://user-images.githubusercontent.com/100232025/202559889-de43d433-afb7-4d5a-b8a7-b11efa095875.gif)
+
+![Portfolio Web](https://user-images.githubusercontent.com/100232025/202561383-5a56894e-53bb-4278-9b14-fa4d69ab410b.gif)
 # Project Portfolio Website.
 ### Responsive Portfolio Website using ReactJS, Tailwind CSS e Zustand.
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=4a309d&style=for-the-badge)
@@ -10,5 +11,6 @@
 - `Portifólio do Projeto:` 
 
 ## Deploy do Projeto
-![Portfólio Web](https://user-images.githubusercontent.com/100232025/202558967-19e1e047-694f-4bb4-9c8f-118ea88d9373.gif)
+![Portfólio Web](https://user-images.githubusercontent.com/100232025/202561406-3c70d958-cc1e-4bf3-b131-424f51e7b3dc.gif)
+
 
