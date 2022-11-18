@@ -11,5 +11,3 @@
 - `Portifólio do Projeto:` 
 
 ## Deploy do Projeto
-
-
