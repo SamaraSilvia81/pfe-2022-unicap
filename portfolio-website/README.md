@@ -11,6 +11,5 @@
 - `Portifólio do Projeto:` 
 
 ## Deploy do Projeto
-![Portfólio Web](https://user-images.githubusercontent.com/100232025/202561406-3c70d958-cc1e-4bf3-b131-424f51e7b3dc.gif)
 
 
