@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react';
+import { StarCounter } from "../zustand/StarCounter";
+import { Controls } from "../zustand/Controls";
 
 // import components
 import Logo from '../../assets/img//logoheader.png';
@@ -24,16 +26,19 @@ const Header = () => {
     >
       <div className='container mx-auto h-full flex items-center justify-between'>
         {/* logo */}
-        <a href='#'>
+        <a href='/'>
           <img src={Logo} alt='' />
         </a>
         {/* nav */}
         <div className='hidden lg:block'>
           <Nav />
         </div>
-        {/* Socials */}
+        {/* Like */}
+        <div className='hidden lg:block pl-12'>
+          <StarCounter />
+        </div>
         <div className='hidden lg:block'>
-          <Socials />
+          <Controls />
         </div>
         {/* nav mobile*/}
         <div className='lg:hidden'>

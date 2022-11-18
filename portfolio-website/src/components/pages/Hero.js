@@ -4,6 +4,7 @@ import React from 'react';
 import MeImg from '../../assets/img/banner-photo-me.png';
 
 const Hero = () => {
+
   return (
     <section
       id='home'
@@ -21,9 +22,11 @@ const Hero = () => {
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
               So, what about meet a litle bit about my work and about me...
             </p>
-            <button className='btn btn-md bg-violet-900 hover:bg-violet-800 md:btn-lg transition-all'>
-              Work with me
-            </button>
+            <a href='/contact'>
+              <button className='btn btn-md bg-violet-900 hover:bg-violet-800 md:btn-lg transition-all'>
+                Work with me
+              </button>
+            </a>
           </div>
           <div className='hidden lg:flex flex-1 justify-end items-end h-full'>
             <img src={MeImg} alt='' />

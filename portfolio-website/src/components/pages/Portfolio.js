@@ -2,6 +2,7 @@ import React from 'react';
 
 // import components
 import Projects from '../content/Projects';
+import Skills from '../content/Skills';
 
 const Portfolio = () => {
   return (
@@ -17,6 +18,7 @@ const Portfolio = () => {
           </p>
         </div>
         <Projects />
+        <Skills />
       </div>
     </section>
   );
