@@ -16,7 +16,10 @@
   - my-app-contador-regex
   - my-app-novo-contador-regex
   - my-app-react-ui
+  - my-app-react-mui
+  - my-app-react-router
 ### Desafios do Curso
   - Projeto Individual: Portfólio
+  - Projeto Individual: Jogo da Senha
   - Projeto Integrador: LibraryStudio
 

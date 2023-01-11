@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.tabela{
+  border-color: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.conteudo{
+  font-size: 20px;
+}
+
+.botao{
+  border-radius: 40px;
+	font-size: 1.2rem;
+	height: 60px;
+	width: 200px;
+	border: none;
+	background-color: #e27ecd;
+  /*#4e545c;*/
+	color: #e5e8e8;
+	transition: all 0.5s linear;
+}
+
+button:hover {
+	background-color: #bd2c7b;
+  /*000401*/
+}
